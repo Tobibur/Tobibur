@@ -44,7 +44,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Tobibur&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Tobibur&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobibur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -54,16 +53,8 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tobiburrahman786/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@tobiburrahman786/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tobiburrahman786/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@tobiburrahman786/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tobiburrahman786/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@tobiburrahman786/2" alt="Medium post 3"  />
-  </a>
+<div align="center">
+  <img height="200" src="./images/demonslayer.gif"  />
 </div>
 
 ###
